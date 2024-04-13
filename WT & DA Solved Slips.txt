@@ -32,8 +32,6 @@ Into a 7:3 ratio, respectively and print them. Build a simple linear regression 
 Ans:
 
 Import numpy as np
-
-Edit with WPS Office
 Import pandas as pd
 From sklearn.model_selection import train_test_split
 
